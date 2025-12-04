@@ -10,8 +10,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <!-- GitHub Trophies for your username -->
-  <img src="https://github-profile-trophy.vercel.app/?username=vijaysingdobhal&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaysingdobhal&theme=onedark" alt="GitHub Trophies" />
 </p>
 
 ---
