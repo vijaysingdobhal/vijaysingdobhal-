@@ -59,6 +59,7 @@ My coding activity and performance metrics, dynamically pulled from GitHub.
 | **Online Munim** - **ERP App** | A complete ERP billing solution with multi-branch support, inventory, and GST reports. | **Flutter, GetX** (State Management), **REST APIs**, Firebase/SQL, **Razorpay & Apple Pay**. | [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) \| [🌐 Website](YOUR_WEBSITE_LINK_HERE) |
 | **Jewellers App** - **E-Commerce & Billing** | Product catalogue, real-time gold/silver rates, EMI calculators, and order/stock management. | **Flutter, GetX**, Secure API Calls, **Razorpay & Apple Pay** Integration. | [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) \| [🌐 Website](YOUR_WEBSITE_LINK_HERE) |
 | **Clone App** (Flutter) | A photocopying service app featuring user authentication and shop mapping via QR codes. | **Flutter**, **Firebase Auth**, Real-time file uploads, Google Maps API (optional). | |
+***Remember to replace `YOUR_PLAY_STORE_LINK_HERE` and `YOUR_WEBSITE_LINK_HERE` with your actual project links.***
 
 <br>
 
