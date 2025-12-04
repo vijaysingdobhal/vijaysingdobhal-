@@ -94,13 +94,25 @@
 
 ---
 
+---
+
 ## 🔥 GitHub Stats
 
 <p align="center">
+  <!-- GitHub Overall Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=vijaysingdobhal&show_icons=true&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysingdobhal&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaysingdobhal&theme=dark&hide_border=true&stroke=0000&background=1c1c1c&ring=2e8b57&fire=FF6F00" height="170" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
