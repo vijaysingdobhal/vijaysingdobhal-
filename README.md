@@ -10,6 +10,7 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
+  <!-- NOTE: This will only show up once you have earned at least one trophy. -->
   <img src="https://github-profile-trophy.vercel.app/?username=vijaysingdobhal&theme=onedark&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </p>
 
@@ -94,27 +95,22 @@
 
 ---
 
----
-
----
-
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats (Dashboard View)
 
 <p align="center">
-  <!-- Overall GitHub Stats -->
-  <img src="https://github-readme-stats-git-master-vijays-projects-828d0aec.vercel.app/api?username=vijaysingdobhal&show_icons=true&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="GitHub Stats"/>
+  <!-- Overall GitHub Stats - Switched to public, reliable Vercel link -->
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaysingdobhal&show_icons=true&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats-git-master-vijays-projects-828d0aec.vercel.app/api/top-langs/?username=vijaysingdobhal&layout=compact&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="Top Languages"/>
+  <!-- Top Languages - Switched to public, reliable Vercel link -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysingdobhal&layout=compact&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Streak -->
+  <!-- GitHub Streak - This link was already stable -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaysingdobhal&theme=dark&hide_border=true&stroke=0000&background=1c1c1c&ring=2e8b57&fire=FF6F00" height="170" alt="GitHub Streak"/>
 </p>
-
 
 ---
 
