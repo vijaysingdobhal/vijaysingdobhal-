@@ -8,34 +8,40 @@
 
 ---
 
-## 🌟 About Me
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaysingdobhal&theme=onedark" alt="GitHub Trophies" />
+</p>
 
-I am a highly-skilled **Flutter Developer** with 2+ years of experience building high-performance, production-ready Android & iOS apps. My expertise lies in architecting scalable mobile solutions, integrating complex **REST APIs**, managing state with modern patterns (**Riverpod/GetX**), and implementing secure **Payment Gateways** (Razorpay, Apple Pay). I focus on delivering clean code and exceptional UI/UX.
+---
+
+## 🌟 About Me
 
 - 👀 Interested in building high-performance, **scalable Android & iOS applications**.
 - 💻 Experienced in **Flutter, Dart, Firebase, and robust API integration**.
 - 🤝 Actively looking for opportunities to collaborate on impactful mobile technology projects.
+- 💌 Email: **vijaydobhal12@gmail.com**
+- 🔗 LinkedIn: [Connect Here](https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/)
+- 🌐 Portfolio: [View Portfolio](https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com)
+- 📍 Location: **Pune, Maharashtra**
 
 ---
 
-## 🤝 Connect & Metrics
+## 🤝 Connect With Me
 
-<div align="center">
-  <!-- Social Badges -->
-  <p>
-    [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/)
-    [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijaysingdobhal)
-    [![Portfolio](https://img.shields.io/badge/Portfolio-vijayportfolio17-FF6F00?style=for-the-badge&logo=netlify&logoColor=white)](https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com)
-  </p>
+<p align="left">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <!-- Portfolio Badge -->
+  <a href="https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+</p>
 
-  <!-- Contact Info -->
-  <p>
-    📧 **vijaydobhal12@gmail.com** | 📞 **+91 9511769008** | 📍 **Pune, Maharashtra**
-  </p>
-
-  <!-- Profile Views Counter -->
-  <img src="https://komarev.com/ghpvc/?username=vijaysingdobhal&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=vijaysingdobhal&style=flat-square&color=blue" alt="Profile Views"/>
 
 ---
 
@@ -66,7 +72,7 @@ I am a highly-skilled **Flutter Developer** with 2+ years of experience building
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Payments-Razorpay%2FApplePay-lightgrey?style=for-the-badge&logo=applepay"/>
+  <img src="https://img.shields.io/badge/Payments-Razorpay-0275C0?style=for-the-badge&logo=Razorpay&logoColor=white"/>
 </p>
 
 ---
@@ -82,11 +88,6 @@ I am a highly-skilled **Flutter Developer** with 2+ years of experience building
 *   Product catalogue, gold/silver rates, EMIs, and multi-location stock management.
 *   **Tech Highlights:** Flutter, GetX, Secure API Calls, Razorpay & Apple Pay Integration.
 *   **Links:** [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) | [🌐 Website](YOUR_WEBSITE_LINK_HERE)
-
-#### 🔹 Clone App (Flutter Project)
-*   Photocopying service app with Firebase Auth and shop-based QR mapping.
-
----
 
 ## 🔥 GitHub Stats (Dashboard View)
 
