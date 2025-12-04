@@ -98,19 +98,18 @@
 ## 🔥 GitHub Stats (Dashboard View)
 
 <p align="center">
-  <!-- Overall GitHub Stats - Switched to public, reliable Vercel link -->
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaysingdobhal&show_icons=true&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="GitHub Stats"/>
+  <!-- Personal Vercel Deployment (Best) -->
+  <img src="https://github-readme-stats-blush-sigma-80.vercel.app/api?username=vijaysingdobhal&show_icons=true&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <!-- Top Languages - Switched to public, reliable Vercel link -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysingdobhal&layout=compact&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats-blush-sigma-80.vercel.app/api/top-langs/?username=vijaysingdobhal&layout=compact&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <!-- GitHub Streak - This link was already stable -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaysingdobhal&theme=dark&hide_border=true&stroke=0000&background=1c1c1c&ring=2e8b57&fire=FF6F00" height="170" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
