@@ -1,118 +1,84 @@
-# 👋 Hi, I'm **Vijaysing Dobhal**
+<div align="center">
+  <!-- Dynamic Typing SVG Header -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=450&lines=Hi+👋,+I'm+Vijaysing+Dobhal;Mobile+App+Engineer+%7C+Flutter+Developer;Building+Scalable+Android+%26+iOS+Apps;" alt="Typing SVG">
 
-### 🚀 Flutter Developer | Mobile App Engineer | Firebase Expert
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaysingdobhal&color=0e75b6" alt="Profile views" />
-  &nbsp; • &nbsp;
-  <a href="https://github.com/vijaysingdobhal"><img alt="GitHub followers" src="https://img.shields.io/github/followers/vijaysingdobhal?label=Follow&style=social" /></a>
-  &nbsp; • &nbsp;
-  <a href="mailto:vijaydobhal12@gmail.com"><img src="https://img.shields.io/badge/Email-vijaydobhal12%40gmail.com-blue?style=flat-square&logo=gmail" alt="email"></a>
-</p>
-
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com)
-</p>
+  <!-- Social Badges (Modern/Flat-Square Style) -->
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijaysingdobhal)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-vijayportfolio17-FF6F00?style=for-the-badge&logo=netlify&logoColor=white)](https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com)
+  
+</div>
 
 ---
 
-# 🧑‍💻 About Me
+### 🚀 Professional Summary
 
-Flutter Developer with **2 years of experience** building high-performance Android & iOS applications. Skilled in **Flutter, Dart, Firebase, REST APIs**, and modern state management. I create **clean, scalable, and production-ready apps** with strong UI/UX fundamentals.
+I am a highly-skilled **Flutter Developer** with 2+ years of experience building high-performance, production-ready Android & iOS apps. My expertise lies in architecting scalable mobile solutions, integrating complex **REST APIs**, managing state with modern patterns (**Riverpod/GetX**), and implementing secure **Payment Gateways** (Razorpay, Apple Pay). I focus on delivering clean code and exceptional UI/UX.
 
----
+<br>
 
-# 🛠️ Tech Stack & Tools
+### 🛠️ Core Technology Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,figma,git,github,postman,riverpod,getx,razorpay,apple" />
-</p>
+A comprehensive view of my programming languages, frameworks, and tools.
 
-**Languages:** Dart, Java, React Native (Basic)
-**State Management:** Provider, Riverpod, GetX
-**Database & Backend:** Firebase, Firestore, MySQL, REST APIs
-**Tools & CI/CD:** Android Studio, VS Code, Xcode, Postman, Git & GitHub
-**Other Skills:** Payment Gateways (Razorpay, Apple Pay), Google Maps API, Google Auth, Push Notifications
+<div align="center">
+  <!-- Use skillicons.dev for a clean, colorful, modern, and aesthetic look -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,firestore,mysql,git,github,vscode,androidstudio,xcode,postman,figma,java,reactnative" />
+  </a>
+  <br>
+  <!-- Additional specific/niche skills using custom shields for a 'badge' look -->
+  <p>
+    <img src="https://img.shields.io/badge/State_Management-GetX-FF0000?style=flat&logo=getx&logoColor=white" />
+    <img src="https://img.shields.io/badge/State_Management-Riverpod-0080ff?style=flat&logo=riverpod&logoColor=white" />
+    <img src="https://img.shields.io/badge/State_Management-Provider-000000?style=flat&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Payment_Gateway-Razorpay-0275C0?style=flat&logo=Razorpay&logoColor=white" />
+    <img src="https://img.shields.io/badge/Payment_Gateway-Apple_Pay-000000?style=flat&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/API-REST_APIs-33a39e?style=flat&logo=apache&logoColor=white" />
+    <img src="https://img.shields.io/badge/CI%2FCD-Yes-4CAF50?style=flat&logo=githubactions&logoColor=white" />
+  </p>
+</div>
 
----
+<br>
 
-# 📁 Featured Projects
+### 📈 GitHub Stats & Activity (Dark Theme - Dashboard Mode)
 
-## 🔹 Online Munim – ERP App
+My coding activity and performance metrics, dynamically pulled from GitHub.
 
-ERP billing solution with multi-branch support, inventory, GST reports, Razorpay & Apple Pay integration.
-**Tech:** Flutter, GetX, Firebase/SQL, REST APIs
-📱 *Play Store* | 🌐 *Website*
+| GitHub Status | Top Languages | GitHub Streak |
+| :---: | :---: | :---: |
+| [![Vijaysing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaysingdobhal&show_icons=true&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57)](https://github.com/vijaysingdobhal/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysingdobhal&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57)](https://github.com/vijaysingdobhal/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijaysingdobhal&theme=dark&hide_border=true&stroke=0000&background=1c1c1c&ring=2e8b57&fire=2e8b57)](https://git.io/streak-stats) |
 
-## 🔹 Jewellers App – eCommerce & Billing
 
-Product catalogue, gold/silver rates, EMIs, multi-location stock management.
-**Tech:** Flutter, GetX, Razorpay, Apple Pay
-📱 *Play Store* | 🌐 *Website*
+<br>
 
-## 🔹 Clone App (Flutter Project)
+### 📁 Featured Production-Ready Projects
 
-Photocopying app using Firebase Auth, file uploads, and shop-based QR mapping.
+| Project | Description | Tech Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **Online Munim** - **ERP App** | A complete ERP billing solution with multi-branch support, inventory, and GST reports. | **Flutter, GetX** (State Management), **REST APIs**, Firebase/SQL, **Razorpay & Apple Pay**. | [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) \| [🌐 Website](YOUR_WEBSITE_LINK_HERE) |
+| **Jewellers App** - **E-Commerce & Billing** | Product catalogue, real-time gold/silver rates, EMI calculators, and order/stock management. | **Flutter, GetX**, Secure API Calls, **Razorpay & Apple Pay** Integration. | [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) \| [🌐 Website](YOUR_WEBSITE_LINK_HERE) |
+| **Clone App** (Flutter) | A photocopying service app featuring user authentication and shop mapping via QR codes. | **Flutter**, **Firebase Auth**, Real-time file uploads, Google Maps API (optional). | |
 
----
+<br>
 
-# 💼 Experience
+### 👨‍💻 Experience & Strengths
 
-### Flutter Developer — Omunim Software Pvt. Ltd. *(Mar 2025 – Present)*
-
-* Enhanced ERP & eCommerce apps with new features and UI improvements.
-* Optimized performance, cold-start times, and smooth scrolling.
-* Integrated secure payments with Razorpay & Apple Pay.
-
-### Flutter Developer Intern — AlgorithmCat *(Dec 2024 – Feb 2025)*
-
-* Built real-time apps with REST APIs & Firebase.
-* Implemented authentication and push notifications.
-
-### Freelance Flutter Developer *(2023 – Present)*
-
-* Delivered ERP, retail, and eCommerce apps end-to-end.
-* Published apps on Play Store & App Store.
-
----
-
-# 🎓 Certifications
-
-* C Programming — Naresh I Technologies
-* Database Management Essentials — Coursera
-* Prompt Engineering — AWS
-* Google Flutter Development — Udemy
+| Section | Details |
+| :--- | :--- |
+| **Current Role** | **Flutter Developer** @ Omunim Software Pvt. Ltd. (Mar 2025 – Present) |
+| **Key Achievements** | Optimized app performance, enhanced user experience (UX), and shipped new features for ERP and E-commerce platforms. |
+| **Freelance** | Delivered end-to-end ERP, retail, and eCommerce apps, including deployment to Play Store & App Store. |
+| **Certifications** | C Programming, Database Management, Prompt Engineering, Google Flutter Development (Udemy). |
+| **Strengths** | **Problem-Solving & Debugging** | **Scalable Architecture Design** | **UI/UX Precision** | **End-to-End Delivery** |
 
 ---
 
-# ⚡ Strengths
-
-* Problem-solving & debugging
-* Scalable architecture design
-* Clean code & UI/UX precision
-* Effective communication & client-focused development
-* Fast learner & adaptive
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaysingdobhal&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysingdobhal&layout=compact&theme=radical&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaysingdobhal&theme=radical&hide_border=true" />
-</p>
-
----
-
-# 🎨 Animated / Modern Enhancements
-
-* Added **animated project GIFs** (optional: insert under Featured Projects)
-* Gradient banners or header images for visual appeal
-* Pinned repositories with custom cards
-* Dark mode theme with bold stats and skill visuals
-
----
-
-> 🚀 Let’s connect and build amazing Flutter apps together!
+<div align="center">
+  <!-- Profile Views Counter -->
+  <p>Visitor count:</p>
+  <img src="https://profile-counter.glitch.me/vijaysingdobhal/count.svg" />
+  
+  <br>
+  **A passion for building things that work, and work well.**
+</div>
