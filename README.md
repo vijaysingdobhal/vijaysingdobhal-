@@ -13,6 +13,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=vijaysingdobhal&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&cache=1" />
 </p>
 
+<p align="center"><i>🏅 Trophies will appear automatically as your GitHub activity grows!</i></p>
+
 
 ---
 
