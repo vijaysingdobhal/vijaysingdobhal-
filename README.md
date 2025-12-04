@@ -10,8 +10,6 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-## 🏆 GitHub Trophies
-<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=vijaysingdobhal&theme=onedark" alt="GitHub Trophies" />
 </p>
 
