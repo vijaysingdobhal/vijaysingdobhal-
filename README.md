@@ -89,3 +89,13 @@
 *   Product catalogue, gold/silver rates, EMIs, and multi-location stock management.
 *   **Tech Highlights:** Flutter, GetX, Secure API Calls, Razorpay & Apple Pay Integration.
 *   **Links:** [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) | [🌐 We
+
+<!-- Replace with your WakaTime username if you sign up -->
+<p align="center">
+  <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_ID.svg" alt="WakaTime Badge" />
+</p>
+
+<!-- Optional: WakaTime Stats Card -->
+<p align="center">
+  <img src="https://github-readme-wakatime.vercel.app/api?username=YOUR_WAKATIME_ID&layout=compact&theme=dark&langs_count=5&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="WakaTime Stats"/>
+</p>
