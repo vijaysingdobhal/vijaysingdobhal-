@@ -10,9 +10,9 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <!-- NOTE: This will only show up once you have earned at least one trophy. -->
-  <img src="https://github-profile-trophy.vercel.app/?username=vijaysingdobhal&theme=onedark&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaysingdobhal&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&cache=1" />
 </p>
+
 
 ---
 
