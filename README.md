@@ -1,85 +1,91 @@
-<div align="center">
-  <!-- Dynamic Typing SVG Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7DF1E&width=450&lines=Hi+👋,+I'm+Vijaysing+Dobhal;Mobile+App+Engineer+%7C+Flutter+Developer;Building+Scalable+Android+%26+iOS+Apps;" alt="Typing SVG">
-
-  <!-- Social Badges (Modern/Flat-Square Style) -->
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vijaysingdobhal)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-vijayportfolio17-FF6F00?style=for-the-badge&logo=netlify&logoColor=white)](https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com)
-  
+<!-- Replace with a Flutter/Mobile Development related GIF if you want to change it -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Programming GIF"/>
 </div>
+
+<h1 align="center">👋 Hi, I'm Vijaysing Dobhal</h1>
+<h3 align="center">🚀 Flutter Developer | Mobile App Engineer | Firebase Expert</h3>
 
 ---
 
-### 🚀 Professional Summary
+## 🏆 GitHub Trophies
+<p align="center">
+  <!-- GitHub Trophies for your username -->
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaysingdobhal&theme=algolia&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
 
-I am a highly-skilled **Flutter Developer** with 2+ years of experience building high-performance, production-ready Android & iOS apps. My expertise lies in architecting scalable mobile solutions, integrating complex **REST APIs**, managing state with modern patterns (**Riverpod/GetX**), and implementing secure **Payment Gateways** (Razorpay, Apple Pay). I focus on delivering clean code and exceptional UI/UX.
+---
 
-<br>
+## 🌟 About Me
 
-### 🛠️ Core Technology Stack
+- 👀 Interested in building high-performance, **scalable Android & iOS applications**.
+- 💻 Experienced in **Flutter, Dart, Firebase, and robust API integration**.
+- 🤝 Actively looking for opportunities to collaborate on impactful mobile technology projects.
+- 💌 Email: **vijaydobhal12@gmail.com**
+- 🔗 LinkedIn: [Connect Here](https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/)
+- 🌐 Portfolio: [View Portfolio](https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com)
+- 📍 Location: **Pune, Maharashtra**
 
-A comprehensive view of my programming languages, frameworks, and tools.
+---
 
-<div align="center">
-  <!-- Use skillicons.dev for a clean, colorful, modern, and aesthetic look -->
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,firestore,mysql,git,github,vscode,androidstudio,xcode,postman,figma,java,reactnative" />
+## 🤝 Connect With Me
+
+<p align="left">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <br>
-  <!-- Additional specific/niche skills using custom shields for a 'badge' look -->
-  <p>
-    <img src="https://img.shields.io/badge/State_Management-GetX-FF0000?style=flat&logo=getx&logoColor=white" />
-    <img src="https://img.shields.io/badge/State_Management-Riverpod-0080ff?style=flat&logo=riverpod&logoColor=white" />
-    <img src="https://img.shields.io/badge/State_Management-Provider-000000?style=flat&logo=flutter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Payment_Gateway-Razorpay-0275C0?style=flat&logo=Razorpay&logoColor=white" />
-    <img src="https://img.shields.io/badge/Payment_Gateway-Apple_Pay-000000?style=flat&logo=apple&logoColor=white" />
-    <img src="https://img.shields.io/badge/API-REST_APIs-33a39e?style=flat&logo=apache&logoColor=white" />
-    <img src="https://img.shields.io/badge/CI%2FCD-Yes-4CAF50?style=flat&logo=githubactions&logoColor=white" />
-  </p>
-</div>
+  <!-- Portfolio Badge -->
+  <a href="https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
+</p>
 
-<br>
-
-### 📈 GitHub Stats & Activity (Dark Theme - Dashboard Mode)
-
-My coding activity and performance metrics, dynamically pulled from GitHub.
-
-| GitHub Status | Top Languages | GitHub Streak |
-| :---: | :---: | :---: |
-| [![Vijaysing's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vijaysingdobhal&show_icons=true&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57)](https://github.com/vijaysingdobhal/github-readme-stats) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vijaysingdobhal&layout=compact&langs_count=6&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57)](https://github.com/vijaysingdobhal/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijaysingdobhal&theme=dark&hide_border=true&stroke=0000&background=1c1c1c&ring=2e8b57&fire=2e8b57)](https://git.io/streak-stats) |
-
-
-<br>
-
-### 📁 Featured Production-Ready Projects
-
-| Project | Description | Tech Highlights | Links |
-| :--- | :--- | :--- | :---: |
-| **Online Munim** - **ERP App** | A complete ERP billing solution with multi-branch support, inventory, and GST reports. | **Flutter, GetX** (State Management), **REST APIs**, Firebase/SQL, **Razorpay & Apple Pay**. | [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) \| [🌐 Website](YOUR_WEBSITE_LINK_HERE) |
-| **Jewellers App** - **E-Commerce & Billing** | Product catalogue, real-time gold/silver rates, EMI calculators, and order/stock management. | **Flutter, GetX**, Secure API Calls, **Razorpay & Apple Pay** Integration. | [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) \| [🌐 Website](YOUR_WEBSITE_LINK_HERE) |
-| **Clone App** (Flutter) | A photocopying service app featuring user authentication and shop mapping via QR codes. | **Flutter**, **Firebase Auth**, Real-time file uploads, Google Maps API (optional). | |
-***Remember to replace `YOUR_PLAY_STORE_LINK_HERE` and `YOUR_WEBSITE_LINK_HERE` with your actual project links.***
-
-<br>
-
-### 👨‍💻 Experience & Strengths
-
-| Section | Details |
-| :--- | :--- |
-| **Current Role** | **Flutter Developer** @ Omunim Software Pvt. Ltd. (Mar 2025 – Present) |
-| **Key Achievements** | Optimized app performance, enhanced user experience (UX), and shipped new features for ERP and E-commerce platforms. |
-| **Freelance** | Delivered end-to-end ERP, retail, and eCommerce apps, including deployment to Play Store & App Store. |
-| **Certifications** | C Programming, Database Management, Prompt Engineering, Google Flutter Development (Udemy). |
-| **Strengths** | **Problem-Solving & Debugging** | **Scalable Architecture Design** | **UI/UX Precision** | **End-to-End Delivery** |
+<!-- Profile Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=vijaysingdobhal&style=flat-square&color=blue" alt="Profile Views"/>
 
 ---
 
-<div align="center">
-  <!-- Profile Views Counter -->
-  <p>Visitor count:</p>
-  <img src="https://profile-counter.glitch.me/vijaysingdobhal/count.svg" />
-  
-  <br>
-  **A passion for building things that work, and work well.**
-</div>
+## 🛠️ Core Technology Stack
+
+### 📱 Mobile & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+</p>
+
+### ⚙️ Backend, Database & State Management
+<p align="center">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Firestore-FF6D00?style=for-the-badge&logo=firestore&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/State-GetX-FF0000?style=for-the-badge&logo=getx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/State-Riverpod-0080ff?style=for-the-badge&logo=riverpod&logoColor=white"/>
+</p>
+
+### 🧰 Tools & Services
+<p align="center">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Payments-Razorpay-0275C0?style=for-the-badge&logo=Razorpay&logoColor=white"/>
+</p>
+
+---
+
+## 📁 Featured Production Projects
+
+#### 🔹 Online Munim – ERP App
+*   ERP billing solution with multi-branch support, inventory, and GST reports.
+*   **Tech Highlights:** Flutter, GetX, REST APIs, Razorpay & Apple Pay.
+*   **Links:** [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) | [🌐 Website](YOUR_WEBSITE_LINK_HERE)
+
+#### 🔹 Jewellers App – E-Commerce & Billing
+*   Product catalogue, gold/silver rates, EMIs, and multi-location stock management.
+*   **Tech Highlights:** Flutter, GetX, Secure API Calls, Razorpay & Apple Pay Integration.
+*   **Links:** [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) | [🌐 We
